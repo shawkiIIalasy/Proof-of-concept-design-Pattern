@@ -1,2 +1,2 @@
 # Design-Pattern
-Using PHP languge
+Using PHP language
